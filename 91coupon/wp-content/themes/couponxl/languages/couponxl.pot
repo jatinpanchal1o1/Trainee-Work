@@ -1,0 +1,4059 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CouponXL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-14 06:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: single-offer.php:203
+msgid " Bought!"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:89
+#: includes/profile-pages/deal-submit.php:95
+msgid " for each purchase by site owner."
+msgstr ""
+
+#: includes/profile-pages/dashboard.php:2
+msgid " here's quick overview of your stats."
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:241
+msgid " is charged "
+msgstr ""
+
+#: single-offer.php:185
+msgid " ITEM"
+msgstr ""
+
+#: single-offer.php:185
+msgid " ITEMS"
+msgstr ""
+
+#: comments.php:20
+msgid "% Comments"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: includes/menu-extender.php:114
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: includes/menu-extender.php:118
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:11
+#: includes/profile-pages/deal-submit.php:81
+#: includes/profile-pages/submit-offer-common.php:282
+#: includes/profile-pages/submit-offer-common.php:307
+#: includes/profile-pages/submit-offer-common.php:329
+msgid "- Select -"
+msgstr ""
+
+#: includes/widgets.php:766 includes/profile-pages/edit-profile.php:221
+msgid "-Select-"
+msgstr ""
+
+#: includes/search-sidebar.php:145
+msgid "-SHOW ALL CATEGORIES-"
+msgstr ""
+
+#: includes/search-sidebar.php:261
+msgid "-SHOW ALL LOCATIONS-"
+msgstr ""
+
+#: includes/search-sidebar.php:145
+msgid "-SHOW LESS CATEGORIES-"
+msgstr ""
+
+#: includes/search-sidebar.php:261
+msgid "-SHOW LESS LOCATIONS-"
+msgstr ""
+
+#: comments.php:20
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:20
+msgid "1 Comment"
+msgstr ""
+
+#: 404.php:10
+msgid "404"
+msgstr ""
+
+#: includes/title.php:16
+msgid "404 Page Doesn't exists"
+msgstr ""
+
+#: includes/widgets.php:767
+msgid "Accordion"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:263
+msgid "ACCOUNT IS CONNECTED"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:60
+#: includes/profile-pages/manage-vouchers.php:29
+#: includes/profile-pages/my-deals.php:66
+msgid "Action"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:35
+msgid "Add Coupon"
+msgstr ""
+
+#: includes/profile-pages/my-deals.php:38
+msgid "Add Deal"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:58
+msgid "Add new marker"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:44
+msgid "Affiliate Link"
+msgstr ""
+
+#: includes/widgets.php:692
+msgid "ago"
+msgstr ""
+
+#: page-tpl_all_stores.php:75
+msgid "ALL"
+msgstr ""
+
+#: includes/search-sidebar.php:20 includes/widgets.php:37
+msgid "All"
+msgstr ""
+
+#: single-store.php:177
+msgid "All "
+msgstr ""
+
+#. Name of the template
+#: includes/search-sidebar.php:53 includes/widgets.php:76
+msgid "All Categories"
+msgstr ""
+
+#: includes/theme-options.php:1429
+msgid "All Categories Page"
+msgstr ""
+
+#: includes/widgets.php:484
+msgid "All Cities"
+msgstr ""
+
+#. Name of the template
+#: includes/title.php:64
+msgid "All Coupons"
+msgstr ""
+
+#. Name of the template
+#: includes/title.php:61
+msgid "All Deals"
+msgstr ""
+
+#: includes/title.php:58
+msgid "All Deals & Coupons"
+msgstr ""
+
+#. Name of the template
+#: includes/search-sidebar.php:171
+msgid "All Locations"
+msgstr ""
+
+#: includes/theme-options.php:1466
+msgid "All Locations Page"
+msgstr ""
+
+#. Name of the template
+#: includes/widgets.php:203 includes/widgets.php:258
+msgid "All Stores"
+msgstr ""
+
+#: includes/theme-options.php:1947
+msgid "Allow or disallow unlimited expire date for deals and coupons."
+msgstr ""
+
+#: includes/theme-options.php:1941
+msgid "Allow Unlimited Expire Date"
+msgstr ""
+
+#: includes/theme-options.php:2154
+msgid "API Setup"
+msgstr ""
+
+#: includes/theme-options.php:2257
+msgid "Application Client ID"
+msgstr ""
+
+#: includes/title.php:37
+msgid "Archive for:"
+msgstr ""
+
+#: includes/theme-options.php:1453 includes/theme-options.php:1490
+msgid "Ascending"
+msgstr ""
+
+#: includes/theme-options.php:504 includes/theme-options.php:516
+msgid ""
+"Assign initial/starting location for website so when visitors visit website "
+"they will see deals & coupons from default location."
+msgstr ""
+
+#: includes/menu-extender.php:217
+msgid "Assign Mega Menu"
+msgstr ""
+
+#: includes/theme-options.php:969 includes/theme-options.php:1297
+msgid "Auto"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:166
+msgid "AVATAR"
+msgstr ""
+
+#: includes/theme-options.php:2202
+msgid "Back"
+msgstr ""
+
+#: includes/theme-options.php:936
+msgid "Background"
+msgstr ""
+
+#: includes/theme-options.php:386
+msgid "Background Color"
+msgstr ""
+
+#: includes/theme-options.php:408
+msgid "Background color for the main buttons."
+msgstr ""
+
+#: includes/theme-options.php:426
+msgid "Background color of main buttons when hovering"
+msgstr ""
+
+#: includes/theme-options.php:591
+msgid "Basic settings for top bar."
+msgstr ""
+
+#: includes/theme-options.php:480
+msgid "Bellow Image"
+msgstr ""
+
+#: includes/theme-options.php:926
+msgid "Big Map Height"
+msgstr ""
+
+#: includes/theme-options.php:918
+msgid "Big Map Marker Source"
+msgstr ""
+
+#: includes/theme-options.php:1317
+msgid "Blog Subtitle"
+msgstr ""
+
+#: includes/theme-options.php:1326
+msgid "Blogs Subtitle"
+msgstr ""
+
+#: includes/theme-options.php:1758
+msgid "Body sort by filter basic options."
+msgstr ""
+
+#: includes/widgets.php:768
+msgid "Box"
+msgstr ""
+
+#: includes/theme-options.php:1376
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/theme-options.php:1395
+msgid "Breadcrumbs BG Color"
+msgstr ""
+
+#: includes/theme-options.php:1403
+msgid "Breadcrumbs Font Color"
+msgstr ""
+
+#: includes/theme-options.php:1411
+msgid "Breadcrumbs Link Font Color"
+msgstr ""
+
+#: includes/theme-options.php:1419
+msgid "Breadcrumbs Link Font Color On Hover"
+msgstr ""
+
+#: includes/widgets.php:769
+msgid "Button"
+msgstr ""
+
+#: includes/theme-options.php:406
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/theme-options.php:397
+msgid "Button Colors"
+msgstr ""
+
+#: includes/theme-options.php:415
+msgid "Button Font Color"
+msgstr ""
+
+#: single.php:29
+msgid "By "
+msgstr ""
+
+#: includes/menu-extender.php:257
+msgid "Cancel"
+msgstr ""
+
+#: includes/theme-options.php:1456 includes/theme-options.php:1493
+msgid "Categories Sort Order"
+msgstr ""
+
+#: includes/widgets.php:101 includes/widgets.php:821 includes/widgets.php:877
+msgid "Categories:"
+msgstr ""
+
+#: includes/theme-options.php:1706 includes/profile-pages/my-coupons.php:48
+#: includes/profile-pages/my-deals.php:51
+msgid "Category"
+msgstr ""
+
+#: includes/theme-options.php:1704
+msgid "Category Filter Title"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:321
+msgid "Category not listed?"
+msgstr ""
+
+#: includes/title.php:26
+msgid "Category: "
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:169
+#: includes/profile-pages/edit-profile.php:171
+msgid "Change Avatar"
+msgstr ""
+
+#: page-tpl_my_profile.php:76
+msgid "Change your profile details here"
+msgstr ""
+
+#: page-tpl_my_profile.php:89
+msgid "Check here coupons you have submitted or add new one"
+msgstr ""
+
+#: page-tpl_my_profile.php:82
+msgid "Check here deals you have purchased"
+msgstr ""
+
+#: page-tpl_my_profile.php:97
+msgid "Check here deals you have submitted or add new one"
+msgstr ""
+
+#: includes/theme-options.php:1255
+msgid "Choose basic things for page title on inner pages."
+msgstr ""
+
+#: includes/theme-options.php:1318
+msgid "Choose blog options."
+msgstr ""
+
+#: includes/theme-options.php:1445
+msgid "Choose by which field to sort listing of all categories"
+msgstr ""
+
+#: includes/theme-options.php:1482
+msgid "Choose by which field to sort listing of all locations"
+msgstr ""
+
+#: includes/theme-options.php:398
+msgid "Choose call to action button colors."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:97
+msgid "Choose deal type. Choose for more details"
+msgstr ""
+
+#: includes/theme-options.php:490
+msgid "Choose default or starting location of the website."
+msgstr ""
+
+#: includes/theme-options.php:379
+msgid ""
+"Choose font color for the elements with the main color as their background "
+"color."
+msgstr ""
+
+#: includes/theme-options.php:524
+msgid "Choose fonts of the website"
+msgstr ""
+
+#: includes/theme-options.php:1458
+msgid "Choose how to sort listing of all categories"
+msgstr ""
+
+#: includes/theme-options.php:1495
+msgid "Choose how to sort listing of all locations"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:23
+msgid "Choose images for the deal. Drag and drop to change their order."
+msgstr ""
+
+#: includes/theme-options.php:370
+msgid "Choose main website color."
+msgstr ""
+
+#: includes/theme-options.php:138
+msgid "Choose notification bar background color."
+msgstr ""
+
+#: includes/theme-options.php:147
+msgid "Choose notification bar font color."
+msgstr ""
+
+#: includes/theme-options.php:1359
+msgid "Choose offer options."
+msgstr ""
+
+#: includes/theme-options.php:388
+msgid "Choose overall background color for the site."
+msgstr ""
+
+#: includes/theme-options.php:360
+msgid "Choose overall main color of the website."
+msgstr ""
+
+#: includes/theme-options.php:447
+msgid "Choose overall slider settings."
+msgstr ""
+
+#: includes/theme-options.php:170 includes/theme-options.php:183
+msgid ""
+"Choose overall website text direction which can be RTL (right to left) or "
+"LTR (left to right)."
+msgstr ""
+
+#: includes/theme-options.php:206
+msgid "Choose Purpose"
+msgstr ""
+
+#: includes/theme-options.php:469
+msgid "Choose rotation speed of slides"
+msgstr ""
+
+#: includes/theme-options.php:181
+msgid "Choose site content direction."
+msgstr ""
+
+#: includes/theme-options.php:477
+msgid "Choose type for the slide captions"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:16
+msgid "Choose type of the coupon."
+msgstr ""
+
+#: includes/theme-options.php:159
+msgid "Choose will you allow users to close notification bar."
+msgstr ""
+
+#: includes/theme-options.php:193 includes/theme-options.php:207
+msgid "Choose will you use CouponXL for coupons only, deals only or for both."
+msgstr ""
+
+#: includes/theme-options.php:123
+msgid "Choose will you use notification bar or not."
+msgstr ""
+
+#: includes/theme-options.php:110
+msgid "Choose will you use notification bar."
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:51
+#: includes/profile-pages/my-deals.php:57
+msgid "Clicks"
+msgstr ""
+
+#: single-store.php:91 single-offer.php:279
+msgid "Close"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:12
+msgid "Code"
+msgstr ""
+
+#: includes/offer-cat-icon.php:74
+msgid "Codes"
+msgstr ""
+
+#: includes/theme-options.php:1121
+msgid "Colors"
+msgstr ""
+
+#: includes/widgets.php:512 includes/widgets.php:586
+msgid "Columns:"
+msgstr ""
+
+#: comments.php:78
+msgid "COMMENT"
+msgstr ""
+
+#: includes/widgets.php:319 includes/widgets.php:372
+msgid "Comments"
+msgstr ""
+
+#: includes/theme-options.php:322
+msgid "Confirmation Hash Slug"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:260
+msgid "Connect"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:257
+msgid "CONNECT STRIPE"
+msgstr ""
+
+#: includes/theme-options.php:2421
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/theme-options.php:2429
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/theme-options.php:1517
+msgid "Contact Details"
+msgstr ""
+
+#. Name of the template
+#: includes/theme-options.php:1503
+msgid "Contact Page"
+msgstr ""
+
+#: includes/theme-options.php:1504
+msgid "Contact page settings."
+msgstr ""
+
+#: page-tpl_contact.php:37
+msgid "Contact Us"
+msgstr ""
+
+#: includes/theme-options.php:971 includes/theme-options.php:1299
+msgid "Contain"
+msgstr ""
+
+#: includes/widgets.php:770
+msgid "Content"
+msgstr ""
+
+#: includes/theme-options.php:169
+msgid "Content Direction"
+msgstr ""
+
+#: includes/widgets.php:926
+msgid "Content:"
+msgstr ""
+
+#: includes/theme-options.php:829 includes/theme-options.php:837
+msgid "Copyrights"
+msgstr ""
+
+#: includes/theme-options.php:830
+msgid "Copyrights content."
+msgstr ""
+
+#: includes/widgets.php:219 includes/widgets.php:431 includes/widgets.php:715
+msgid "Count:"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:42
+msgid "Coupon"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:234
+msgid "coupon"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:20
+msgid "Coupon Code Value"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:2
+msgid "Coupon Excerpt"
+msgstr ""
+
+#: includes/theme-options.php:1842
+msgid "Coupon Page"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:26
+msgid "Coupon Sale Link"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:9
+msgid "Coupon Type"
+msgstr ""
+
+#: includes/search-sidebar.php:26 includes/widgets.php:43
+msgid "Coupons"
+msgstr ""
+
+#: single-store.php:183
+msgid "Coupons "
+msgstr ""
+
+#: includes/title.php:86
+msgid "coupons "
+msgstr ""
+
+#: includes/theme-options.php:202
+msgid "Coupons & Deals"
+msgstr ""
+
+#: includes/theme-options.php:203
+msgid "Coupons Only"
+msgstr ""
+
+#: includes/profile-pages/dashboard.php:41
+msgid "Coupons: "
+msgstr ""
+
+#. Name of the theme
+#: includes/theme-options.php:2475 includes/theme-options.php:2476
+msgid "CouponXL"
+msgstr ""
+
+#. Description of the theme
+msgid "CouponXL - Coupons, Deals &amp; Discounts Wordpress Theme"
+msgstr ""
+
+#: includes/widgets.php:7
+msgid "CouponXL Category"
+msgstr ""
+
+#: includes/widgets.php:7
+msgid "CouponXL Category Widget"
+msgstr ""
+
+#: includes/widgets.php:447
+msgid "CouponXL Custom Locations"
+msgstr ""
+
+#: includes/widgets.php:447
+msgid "CouponXL Custom Locations Widget"
+msgstr ""
+
+#: includes/widgets.php:530
+msgid "CouponXL Custom Menu Widget For The Footer Only"
+msgstr ""
+
+#: includes/widgets.php:603
+msgid "CouponXL Custom Menu Widget Two For Sidebar Only"
+msgstr ""
+
+#: includes/widgets.php:235
+msgid "CouponXL Custom Stores"
+msgstr ""
+
+#: includes/widgets.php:235
+msgid "CouponXL Custom Stores Widget"
+msgstr ""
+
+#: includes/widgets.php:530
+msgid "CouponXL Footer Custom Menu"
+msgstr ""
+
+#: includes/widgets.php:389
+msgid "CouponXL Latest Posts"
+msgstr ""
+
+#: includes/widgets.php:290
+msgid "CouponXL Latest Posts And Comments"
+msgstr ""
+
+#: includes/widgets.php:290
+msgid "CouponXL Latest Posts And Comments Widget"
+msgstr ""
+
+#: includes/widgets.php:389
+msgid "CouponXL Latest Posts Widget"
+msgstr ""
+
+#: includes/widgets.php:126
+msgid "CouponXL Locations"
+msgstr ""
+
+#: includes/widgets.php:126
+msgid "CouponXL Locations Widget"
+msgstr ""
+
+#: includes/widgets.php:788
+msgid "CouponXL Mega Menu Categories List"
+msgstr ""
+
+#: includes/widgets.php:901
+msgid "CouponXL Mega Menu Custom List"
+msgstr ""
+
+#: includes/widgets.php:942
+msgid "CouponXL Mega Menu Images"
+msgstr ""
+
+#: includes/widgets.php:845
+msgid "CouponXL Mega Menu Locations List"
+msgstr ""
+
+#: includes/widgets.php:180
+msgid "CouponXL Popular Stores Widget For Sidebar Only"
+msgstr ""
+
+#: includes/widgets.php:731
+msgid "CouponXL Shortcode Text"
+msgstr ""
+
+#: includes/widgets.php:603
+msgid "CouponXL Sidebar Custom Menu Two"
+msgstr ""
+
+#: includes/widgets.php:180
+msgid "CouponXL Sidebar Popular Stores"
+msgstr ""
+
+#: includes/widgets.php:986
+msgid "CouponXL Subscribe"
+msgstr ""
+
+#: includes/widgets.php:986
+msgid "CouponXL Subscribe Widget"
+msgstr ""
+
+#: includes/theme-options.php:970 includes/theme-options.php:1298
+msgid "Cover"
+msgstr ""
+
+#: includes/menu-extender.php:193
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:57
+#: includes/profile-pages/my-deals.php:63
+msgid "CTR"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:140
+#: includes/profile-pages/my-deals.php:171
+msgid "CTR: "
+msgstr ""
+
+#: includes/theme-options.php:1673
+msgid "Currently there is no coupons and deals for this store."
+msgstr ""
+
+#: includes/filter-bar.php:78
+msgid "DATE"
+msgstr ""
+
+#: single-offer.php:519 single-offer.php:531
+msgid "Day"
+msgstr ""
+
+#: single-offer.php:520 single-offer.php:532
+msgid "Days"
+msgstr ""
+
+#: includes/profile-pages/my-deals.php:45
+#: includes/profile-pages/my-purchases.php:23
+msgid "Deal"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:238
+msgid "deal"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:26
+msgid "Deal Affiliate Link"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:89
+#: includes/profile-pages/deal-submit.php:95
+msgid "Deal buyer will be charged "
+msgstr ""
+
+#: includes/theme-options.php:308
+msgid "Deal Coupon"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:52
+msgid "Deal Discount"
+msgstr ""
+
+#: single-offer.php:163 single-offer.php:527
+msgid "DEAL EXPIRED"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:19
+msgid "Deal Images"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:9
+msgid "Deal Item Vouchers"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:4
+msgid "Deal Items"
+msgstr ""
+
+#: includes/theme-options.php:1833
+msgid "Deal Map Max Zoom"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:57
+msgid "Deal Marker Locations"
+msgstr ""
+
+#: includes/theme-options.php:1781
+msgid "Deal Page"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:40
+msgid "Deal Price"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:46
+msgid "Deal Sale Price"
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:117
+msgid "Deal Short Description: "
+msgstr ""
+
+#: includes/theme-options.php:315
+msgid "Deal Slug"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:79
+msgid "Deal Type"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:14
+msgid "Deal Voucher Expire Date"
+msgstr ""
+
+#: includes/theme-options.php:916 includes/search-sidebar.php:23
+#: includes/widgets.php:40
+msgid "Deals"
+msgstr ""
+
+#: single-store.php:180
+msgid "Deals "
+msgstr ""
+
+#: includes/title.php:83
+msgid "deals "
+msgstr ""
+
+#: includes/title.php:80
+msgid "deals and coupons "
+msgstr ""
+
+#: includes/theme-options.php:204
+msgid "Deals Only"
+msgstr ""
+
+#: includes/profile-pages/dashboard.php:46
+msgid "Deals: "
+msgstr ""
+
+#: includes/theme-options.php:489 includes/theme-options.php:497
+msgid "Default Location"
+msgstr ""
+
+#: includes/theme-options.php:1650
+msgid "Default Offer Listing"
+msgstr ""
+
+#: includes/theme-options.php:1454 includes/theme-options.php:1491
+msgid "Descending"
+msgstr ""
+
+#: includes/menu-extender.php:205 includes/offer-cat-icon.php:72
+msgid "Description"
+msgstr ""
+
+#: includes/theme-options.php:582 includes/theme-options.php:687
+#: includes/theme-options.php:797 includes/theme-options.php:886
+#: includes/theme-options.php:1247 includes/theme-options.php:1509
+#: includes/theme-options.php:1587 includes/theme-options.php:1971
+#: includes/theme-options.php:2160
+msgid "Description and image maybe."
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:216
+msgid "Description is required"
+msgstr ""
+
+#: includes/theme-options.php:511
+msgid "Disable"
+msgstr ""
+
+#: includes/theme-options.php:1559
+msgid "Disable Scroll Zoom"
+msgstr ""
+
+#: single-offer.php:225
+msgid "DISCOUNT"
+msgstr ""
+
+#: includes/theme-options.php:2119
+msgid "Discussion"
+msgstr ""
+
+#: includes/theme-options.php:2120
+msgid "Discussion basic settings setup."
+msgstr ""
+
+#: includes/theme-options.php:2135
+msgid "Discussion Mail"
+msgstr ""
+
+#: includes/theme-options.php:2142
+msgid "Discussion Mail Sender Name"
+msgstr ""
+
+#: includes/theme-options.php:2128
+msgid "Discussion Mail Subject"
+msgstr ""
+
+#: includes/profile-pages/edit-offer.php:22
+msgid "Discussion on "
+msgstr ""
+
+#: includes/profile-pages/dashboard.php:56
+msgid "Earnings due: "
+msgstr ""
+
+#: includes/profile-pages/dashboard.php:59
+msgid "Earnings sent: "
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:162
+msgid "Edit Coupon"
+msgstr ""
+
+#: includes/profile-pages/my-deals.php:195
+msgid "Edit Deal"
+msgstr ""
+
+#: includes/menu-extender.php:157 includes/menu-extender.php:159
+msgid "Edit Menu Item"
+msgstr ""
+
+#: page-tpl_my_profile.php:75
+msgid "Edit Profile"
+msgstr ""
+
+#: page-tpl_contact.php:44 page-tpl_recover_password.php:44
+#: page-tpl_register.php:78 comments.php:74
+#: includes/profile-pages/edit-profile.php:177
+msgid "EMAIL"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:138
+msgid "Email address is not valid."
+msgstr ""
+
+#: page-tpl_recover_password.php:44
+msgid "Email is empty or invaid"
+msgstr ""
+
+#: page-tpl_register.php:79 includes/profile-pages/edit-profile.php:178
+msgid "Email is empty or invalid"
+msgstr ""
+
+#: includes/theme-options.php:2103
+msgid "Email Of Sender"
+msgstr ""
+
+#: includes/theme-options.php:512
+msgid "Enable"
+msgstr ""
+
+#: includes/theme-options.php:509
+msgid "Enable Geolocation"
+msgstr ""
+
+#: includes/theme-options.php:122
+msgid "Enable Notification Bar"
+msgstr ""
+
+#: includes/theme-options.php:158
+msgid "Enable Notification Bar To Close"
+msgstr ""
+
+#: includes/theme-options.php:815
+msgid "Enable or disable scroll to top button"
+msgstr ""
+
+#: includes/theme-options.php:461
+msgid "Enable or disable slider automatic rotation of slides."
+msgstr ""
+
+#: includes/theme-options.php:600
+msgid "Enable or disable top bar"
+msgstr ""
+
+#: includes/theme-options.php:1565
+msgid "Enable or disable zoom on scroll of the contact map."
+msgstr ""
+
+#: includes/theme-options.php:749
+msgid "Enable Sticky Navigation"
+msgstr ""
+
+#: includes/theme-options.php:1052
+msgid "Example: Detroit US, Washington DC ..."
+msgstr ""
+
+#: includes/theme-options.php:1068
+msgid "Example: Wallmart, Nike, Reebok, Dell, Apple, Addidas ..."
+msgstr ""
+
+#: includes/theme-options.php:1852
+msgid "Excerpt Only"
+msgstr ""
+
+#: includes/theme-options.php:2027
+msgid "Expire Message Part"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:87
+#: includes/profile-pages/manage-vouchers.php:52
+#: includes/profile-pages/my-deals.php:107
+#: includes/profile-pages/my-purchases.php:70
+msgid "Expired"
+msgstr ""
+
+#: includes/theme-options.php:622
+msgid "Facebook Link"
+msgstr ""
+
+#: includes/theme-options.php:855
+msgid "Facebook link"
+msgstr ""
+
+#: includes/theme-options.php:555
+msgid "Favicon"
+msgstr ""
+
+#: includes/widgets.php:771
+msgid "Featured Stores"
+msgstr ""
+
+#: includes/theme-options.php:1689
+msgid "Filter By"
+msgstr ""
+
+#: page-tpl_register.php:66 includes/profile-pages/edit-profile.php:185
+msgid "FIRST NAME"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:142
+msgid "First name, last name and email are required."
+msgstr ""
+
+#: includes/theme-options.php:377
+msgid "Font Color"
+msgstr ""
+
+#: includes/theme-options.php:417
+msgid "Font color for the main buttons."
+msgstr ""
+
+#: includes/theme-options.php:435
+msgid "Font color of main buttons when hovering"
+msgstr ""
+
+#: includes/theme-options.php:734
+msgid "Font for the navigation"
+msgstr ""
+
+#: includes/theme-options.php:791
+msgid "Footer"
+msgstr ""
+
+#: includes/theme-options.php:792
+msgid "Footer CouponXL Settings"
+msgstr ""
+
+#: page-tpl_login.php:108
+msgid "Forgot Password?"
+msgstr ""
+
+#: footer.php:78
+msgid "Friend's email"
+msgstr ""
+
+#: includes/title.php:91
+msgid "from category "
+msgstr ""
+
+#: includes/theme-options.php:2201
+msgid "Front"
+msgstr ""
+
+#: includes/blog-latest.php:13
+msgid "FULL ARTICLE"
+msgstr ""
+
+#: includes/theme-options.php:590
+msgid "General"
+msgstr ""
+
+#. Name of the template
+#: includes/theme-options.php:894
+msgid "Geo Home Page"
+msgstr ""
+
+#: 404.php:15
+msgid "GO"
+msgstr ""
+
+#: includes/theme-options.php:2438
+msgid "Google API"
+msgstr ""
+
+#: includes/theme-options.php:2447
+msgid "Google API key"
+msgstr ""
+
+#: includes/theme-options.php:2439
+msgid "Google API Settings."
+msgstr ""
+
+#: includes/theme-options.php:636
+msgid "Google link"
+msgstr ""
+
+#: includes/theme-options.php:1543
+msgid "Google Map"
+msgstr ""
+
+#: includes/theme-options.php:1552
+msgid "Google Map Markers"
+msgstr ""
+
+#: includes/theme-options.php:1571
+msgid "Google Map Max Zoom"
+msgstr ""
+
+#: includes/theme-options.php:869
+msgid "Google+"
+msgstr ""
+
+#: includes/theme-options.php:1647
+msgid "Grid"
+msgstr ""
+
+#: includes/theme-options.php:681
+msgid "Header"
+msgstr ""
+
+#: includes/theme-options.php:682
+msgid "Header CouponXL Settings"
+msgstr ""
+
+#: includes/theme-options.php:101
+msgid ""
+"Here in overall setup section you can edit basic settings related to overall "
+"website."
+msgstr ""
+
+#: includes/profile-pages/dashboard.php:2
+msgid "Hi "
+msgstr ""
+
+#. Name of the template
+#: includes/theme-options.php:880
+msgid "Home Page"
+msgstr ""
+
+#: includes/theme-options.php:944
+msgid "Home Page Background Image"
+msgstr ""
+
+#: includes/theme-options.php:951
+msgid "Home Page Background Image Repeat"
+msgstr ""
+
+#: includes/theme-options.php:965
+msgid "Home Page Background Image Size"
+msgstr ""
+
+#: includes/theme-options.php:937
+msgid "Home page background settings."
+msgstr ""
+
+#: includes/theme-options.php:895
+msgid "Home page big map settings."
+msgstr ""
+
+#: includes/theme-options.php:881
+msgid "Home Page CouponXL Settings"
+msgstr ""
+
+#: includes/theme-options.php:982
+msgid "Home page intro content."
+msgstr ""
+
+#: includes/theme-options.php:1129
+msgid "Home Page Main Title Font Color"
+msgstr ""
+
+#: includes/theme-options.php:1201
+msgid "Home Page Search Dropdown BG Color"
+msgstr ""
+
+#: includes/theme-options.php:1219 includes/theme-options.php:1228
+msgid "Home Page Search Dropdown BG Color On Hover"
+msgstr ""
+
+#: includes/theme-options.php:1210
+msgid "Home Page Search Dropdown Font Color"
+msgstr ""
+
+#: includes/theme-options.php:1139
+msgid "Home Page Search Input Bg Color"
+msgstr ""
+
+#: includes/theme-options.php:1175
+msgid "Home Page Search Input Bg Color On Focus"
+msgstr ""
+
+#: includes/theme-options.php:1148
+msgid "Home Page Search Input Border Color"
+msgstr ""
+
+#: includes/theme-options.php:1183
+msgid "Home Page Search Input Border Color On Focus"
+msgstr ""
+
+#: includes/theme-options.php:1166
+msgid "Home Page Search Input Font Color"
+msgstr ""
+
+#: includes/theme-options.php:1192
+msgid "Home Page Search Input Font Color On Focus"
+msgstr ""
+
+#: includes/theme-options.php:1157
+msgid "Home Page Search Input Placeholder Color"
+msgstr ""
+
+#: includes/theme-options.php:1078
+msgid "Home page slider items."
+msgstr ""
+
+#: includes/theme-options.php:214
+msgid "Home Sidebars"
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.powerthemes.club/themes/couponxl/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/pebas/"
+msgstr ""
+
+#: page-tpl_register.php:110 includes/profile-pages/terms.php:12
+msgid "I have read and agreed with the terms and conditions."
+msgstr ""
+
+#: includes/theme-options.php:1699
+msgid "I'm looking for"
+msgstr ""
+
+#: includes/offer-cat-icon.php:30 includes/offer-cat-icon.php:75
+msgid "Icon"
+msgstr ""
+
+#: includes/offer-cat-icon.php:11
+msgid "Icon:"
+msgstr ""
+
+#: includes/theme-options.php:2298
+msgid "iDEAL API"
+msgstr ""
+
+#: includes/theme-options.php:2313
+msgid "iDEAL Model"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:301
+msgid ""
+"If you can not find store in the list populate this field with as much "
+"information as you can. Relevant informations are: store name, store logo, "
+"store description, links to facebook, twiiter, google pages, google map "
+"longitude and latitude, map marker image."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:11
+msgid ""
+"If you want to serve predefined vouchers instead of random generated ones, "
+"input them here one in a row and make sure that you have same amount of "
+"these vouchers as the number of items."
+msgstr ""
+
+#: includes/widgets.php:969
+msgid "Image:"
+msgstr ""
+
+#: includes/theme-options.php:2299
+msgid "Important iDEAL Settings."
+msgstr ""
+
+#: includes/theme-options.php:2168 includes/theme-options.php:2364
+msgid "Important PayPal Settings."
+msgstr ""
+
+#: includes/theme-options.php:2328
+msgid "Important PayU Money Settings."
+msgstr ""
+
+#: includes/theme-options.php:2268
+msgid "Important Skrill Settings."
+msgstr ""
+
+#: includes/theme-options.php:2236
+msgid "Important Stripe Settings."
+msgstr ""
+
+#: single-offer.php:274
+msgid "In Short"
+msgstr ""
+
+#: includes/theme-options.php:1241
+msgid "Inner Pages"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:28
+msgid ""
+"Input affiliate link for the deal in order to avoid payment over this "
+"website."
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:46
+msgid "Input affiliate link which will be opened once the coupon is clicked."
+msgstr ""
+
+#: includes/theme-options.php:2374
+msgid ""
+"Input API key of your MailChimp. More <a href=\"http://kb.mailchimp."
+"com/accounts/management/about-api-keys\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/theme-options.php:1328
+msgid "Input blog subtitle"
+msgstr ""
+
+#: includes/theme-options.php:839
+msgid "Input copyrights"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:22
+msgid "Input coupon code."
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:4
+msgid "Input coupon excerpt."
+msgstr ""
+
+#: includes/theme-options.php:351
+msgid ""
+"Input custom slug for action on my profile pages ( only small letters and "
+"underscore )."
+msgstr ""
+
+#: includes/theme-options.php:323
+msgid ""
+"Input custom slug for confirmation slug in the email verification email ( "
+"only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:309
+msgid ""
+"Input custom slug for coupon slug ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:316
+msgid "Input custom slug for deal slug ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:239
+msgid ""
+"Input custom slug for offer category ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:302
+msgid ""
+"Input custom slug for offer custom post type ( only small letters and "
+"underscore )."
+msgstr ""
+
+#: includes/theme-options.php:344
+msgid ""
+"Input custom slug for offer id on my profile pages ( only small letters and "
+"underscore )."
+msgstr ""
+
+#: includes/theme-options.php:281
+msgid ""
+"Input custom slug for offer keyword ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:253
+msgid ""
+"Input custom slug for offer location ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:274
+msgid "Input custom slug for offer sort ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:260
+msgid ""
+"Input custom slug for offer store for the search purposes ( only small "
+"letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:246
+msgid "Input custom slug for offer tag ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:232
+msgid "Input custom slug for offer type ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:267
+msgid "Input custom slug for offer view ( only small letters and underscore )."
+msgstr ""
+
+#: includes/theme-options.php:288
+msgid ""
+"Input custom slug for store custom post type ( only small letters and "
+"underscore )."
+msgstr ""
+
+#: includes/theme-options.php:295
+msgid ""
+"Input custom slug for store letter custom post type ( only small letters and "
+"underscore )."
+msgstr ""
+
+#: includes/theme-options.php:337
+msgid ""
+"Input custom slug for subpage on my profile pages ( only small letters and "
+"underscore )."
+msgstr ""
+
+#: includes/theme-options.php:330
+msgid ""
+"Input custom slug for username in the email verification email ( only small "
+"letters and underscore )."
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:261
+msgid "Input description of the offer."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:33
+msgid "Input description which will appear in the deal single page sidebar."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:54
+#, php-format
+msgid ""
+"Input discount percentage number with the % sign after number ( auto updated "
+"by the sale price change in the previous field )."
+msgstr ""
+
+#: includes/theme-options.php:2055
+msgid ""
+"Input email address on which information about new submission will arrive."
+msgstr ""
+
+#: includes/theme-options.php:2105
+msgid "Input email address you wish to show on the email messages."
+msgstr ""
+
+#: footer.php:80
+msgid "Input email of your friend."
+msgstr ""
+
+#: includes/theme-options.php:2130
+msgid "Input email subject for the discussion message."
+msgstr ""
+
+#: includes/theme-options.php:2074
+msgid "Input email subject."
+msgstr ""
+
+#: includes/theme-options.php:1528
+msgid "Input email where sent messages will arrive"
+msgstr ""
+
+#: includes/theme-options.php:2137
+msgid "Input email where the discussion messages will arrive."
+msgstr ""
+
+#: includes/theme-options.php:2029
+#, php-format
+msgid ""
+"Input expire message which will be sent to the users after they purchase "
+"deal voucher ( this will be added after the the prvious mesage ). Input "
+"%EXPIRE% on the place where you would like to show time until voucher is "
+"valid if it iset in deal."
+msgstr ""
+
+#: includes/theme-options.php:928
+msgid "Input height of the big map in pixels"
+msgstr ""
+
+#: includes/theme-options.php:215
+msgid "Input hom many home sidebars you wish to use."
+msgstr ""
+
+#: includes/theme-options.php:1011
+msgid ""
+"Input home page subtitle here. use %stores% to place stores number and "
+"%locations% to add number of available location if you desire."
+msgstr ""
+
+#: includes/theme-options.php:1004
+msgid "Input home page title here"
+msgstr ""
+
+#: includes/theme-options.php:2381
+msgid ""
+"Input ID of the ailchimp list on which the users will subscribe. More <a "
+"href=\"http://kb.mailchimp.com/lists/managing-subscribers/find-your-list-"
+"id\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/theme-options.php:857
+msgid "Input link to your facebook page"
+msgstr ""
+
+#: includes/theme-options.php:871
+msgid "Input link to your google+ page"
+msgstr ""
+
+#: includes/theme-options.php:864
+msgid "Input link to your twitter page"
+msgstr ""
+
+#: includes/theme-options.php:1554
+msgid ""
+"Input longitudes and latitudes separated by comma for example 92.3123,-105."
+"54353 (longitude,latitude). <a href=\"http://www.latlong.net/\" "
+"target=\"_blank\">Find Long/Lat</a>"
+msgstr ""
+
+#: includes/theme-options.php:2098
+msgid "Input lost password message subject."
+msgstr ""
+
+#: includes/theme-options.php:2091
+msgid ""
+"Input lost password message which will be sent to the users to verify their "
+"email address. Put %PASSWORD% in the place you want to show new password and "
+"put %USERNAME% where to place username."
+msgstr ""
+
+#: includes/theme-options.php:2193
+msgid "Input main currency unit abbreviation.  (USD, EUR, RUB, AUD, GBP...)"
+msgstr ""
+
+#: includes/theme-options.php:2187
+msgid "Input main currency unit. ($, £, €, руб)."
+msgstr ""
+
+#: includes/theme-options.php:1955
+msgid "Input maximum number of days between start and expire date."
+msgstr ""
+
+#: includes/theme-options.php:782
+msgid ""
+"Input minimum height of the mega menu based on the content you are adding to "
+"it."
+msgstr ""
+
+#: includes/theme-options.php:2112
+msgid "Input name you wish to show on the email messages."
+msgstr ""
+
+#: includes/theme-options.php:130
+msgid ""
+"Input notification text which will be disaplyed in the notification bar."
+msgstr ""
+
+#: includes/theme-options.php:1680
+msgid ""
+"Input notification text which will be disaplyed on the search page when "
+"there is no offers found."
+msgstr ""
+
+#: includes/theme-options.php:1672
+msgid ""
+"Input notification text which will be disaplyed on the store single page "
+"when there is no associated offers."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:6
+msgid ""
+"Input number of deal items or services which will be available for purchase."
+msgstr ""
+
+#: includes/theme-options.php:774
+msgid "Input number of mega menu sidebars you wish to use."
+msgstr ""
+
+#: includes/theme-options.php:1876
+msgid "Input number of similar coupon to show on deal single page"
+msgstr ""
+
+#: includes/theme-options.php:1815
+msgid "Input number of similar deals to show on deal single page"
+msgstr ""
+
+#: includes/theme-options.php:1906 includes/theme-options.php:1912
+msgid ""
+"Input number without currency symbol for fixed fee. Input percentage with "
+"percentage symbol for percentage based fee."
+msgstr ""
+
+#: includes/theme-options.php:1924
+msgid ""
+"Input number without currency symbol. This is  amount which will be charged "
+"from the seller for each submited coupon. ( Leave empty to disable this fee. "
+")"
+msgstr ""
+
+#: includes/theme-options.php:1918
+msgid ""
+"Input number without currency symbol. This is amount which will be charged "
+"from the seller for each submited deal. ( Leave empty to disable this fee. )"
+msgstr ""
+
+#: includes/theme-options.php:1369
+msgid "Input offers subtitle"
+msgstr ""
+
+#: footer.php:85
+msgid "Input optional message for your friend."
+msgstr ""
+
+#: includes/theme-options.php:2221
+msgid "Input paypal API password here."
+msgstr ""
+
+#: includes/theme-options.php:2227
+msgid "Input paypal API signature here."
+msgstr ""
+
+#: includes/theme-options.php:2215
+msgid "Input paypal API username here."
+msgstr ""
+
+#: includes/theme-options.php:672
+msgid "Input placeholder text for search by keyword"
+msgstr ""
+
+#: includes/theme-options.php:656
+msgid "Input placeholder text for search by location"
+msgstr ""
+
+#: includes/theme-options.php:664
+msgid "Input placeholder text for search by store"
+msgstr ""
+
+#: includes/theme-options.php:2036
+msgid "Input purchase message subject"
+msgstr ""
+
+#: includes/theme-options.php:2022
+msgid ""
+"Input purchase message which will be sent to the users after they purchase "
+"deal voucher. Input %TITLE% on the place where you would like to show deal "
+"title and %VOUCHER% on place where voucher should be displayed."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:42
+msgid ""
+"Input real price of the deal without currency simbol. If this value is "
+"decimal than use . as decimal separator and max two decimal places."
+msgstr ""
+
+#: includes/theme-options.php:1996
+msgid "Input registration message subject."
+msgstr ""
+
+#: includes/theme-options.php:1989
+msgid ""
+"Input registration message which will be sent to the users to verify their "
+"email address. Put %LINK% in the place you want to show confirmation link."
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:28
+msgid "Input sale link."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:48
+msgid ""
+"Input sale price of the deal without currency simbol ( auto updated by the "
+"percentage change in the next field ). If this value is decimal than use . "
+"as decimal separator and max two decimal places."
+msgstr ""
+
+#: includes/theme-options.php:2144
+msgid "Input sender name for the discussion mail."
+msgstr ""
+
+#: includes/theme-options.php:1535
+msgid "Input subject for the message."
+msgstr ""
+
+#: includes/theme-options.php:2002
+msgid ""
+"Input terms and conditions which users must accept in order to register on "
+"site ."
+msgstr ""
+
+#: includes/theme-options.php:1604
+msgid ""
+"Input terms and conditions which users must accept in order to submit offer "
+"or leave empty to disable."
+msgstr ""
+
+#: includes/theme-options.php:1051
+msgid ""
+"Input text which will be description for the search by location input box on "
+"home page."
+msgstr ""
+
+#: includes/theme-options.php:1067
+msgid ""
+"Input text which will be description for the search by store input box on "
+"home page."
+msgstr ""
+
+#: includes/theme-options.php:1043
+msgid ""
+"Input text which will be placeholder for the search by location input box on "
+"home page."
+msgstr ""
+
+#: includes/theme-options.php:1059
+msgid ""
+"Input text which will be placeholder for the search by store input box on "
+"home page."
+msgstr ""
+
+#: includes/theme-options.php:1705
+msgid "Input title for the filter by category on search page"
+msgstr ""
+
+#: includes/theme-options.php:1698 includes/theme-options.php:1712
+msgid "Input title for the filter by offer type on search page"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:251
+msgid "Input title for the offer."
+msgstr ""
+
+#: includes/theme-options.php:1573 includes/theme-options.php:1835
+msgid ""
+"Input value from 0 to 19 to set zoom or leave empty to zoom untill all "
+"markers are dispalyed."
+msgstr ""
+
+#: includes/theme-options.php:2291
+msgid "Input your API/MQI password."
+msgstr ""
+
+#: includes/theme-options.php:2422
+msgid "Input your consumer key."
+msgstr ""
+
+#: includes/theme-options.php:2430
+msgid "Input your consumer secret."
+msgstr ""
+
+#: includes/theme-options.php:2277
+msgid "Input your email which is connected with your skrill account."
+msgstr ""
+
+#: includes/theme-options.php:2448
+#, php-format
+msgid "Input your google api key. %s"
+msgstr ""
+
+#: includes/theme-options.php:2337
+msgid "Input your merchant key to connect to PayU"
+msgstr ""
+
+#: includes/theme-options.php:2344
+msgid "Input your merchant salt to connect to PayU"
+msgstr ""
+
+#: includes/theme-options.php:2308
+msgid "Input your mollie ID to connect to iDEAL"
+msgstr ""
+
+#: includes/theme-options.php:2414
+msgid "Input your oauth access token secret."
+msgstr ""
+
+#: includes/theme-options.php:2407
+msgid "Input your oauth access token."
+msgstr ""
+
+#: includes/theme-options.php:2284
+msgid "Input your scrill secret word."
+msgstr ""
+
+#: includes/theme-options.php:2245
+msgid "Input your stripe public client ID"
+msgstr ""
+
+#: includes/theme-options.php:2259
+msgid "Input your stripe secret application client ID"
+msgstr ""
+
+#: includes/theme-options.php:2252
+msgid "Input your stripe secret client ID"
+msgstr ""
+
+#: includes/theme-options.php:2400
+msgid "Input your twitter username."
+msgstr ""
+
+#: includes/theme-options.php:1966
+msgid "Interaction trough emails settings."
+msgstr ""
+
+#: includes/theme-options.php:981
+msgid "Intro Content"
+msgstr ""
+
+#: page-tpl_login.php:32
+msgid "Invalid password"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:52
+msgid "Invalid Transaction. Please try again"
+msgstr ""
+
+#: page-tpl_login.php:29 page-tpl_login.php:51
+msgid "Invalid username"
+msgstr ""
+
+#: includes/widgets.php:274
+msgid "Items (comma separated):"
+msgstr ""
+
+#: single-offer.php:179
+msgid "ITEMS LEFT - LIMITED OFFER!"
+msgstr ""
+
+#: includes/theme-options.php:670
+msgid "Keyword Placeholder"
+msgstr ""
+
+#: page-tpl_register.php:72 includes/profile-pages/edit-profile.php:191
+msgid "LAST NAME"
+msgstr ""
+
+#: includes/widgets.php:305 includes/widgets.php:371
+msgid "Latest"
+msgstr ""
+
+#: includes/widgets.php:656
+msgid "Latest Tweets"
+msgstr ""
+
+#: comments.php:61
+msgid "Leave Comment"
+msgstr ""
+
+#: includes/theme-options.php:1345
+msgid "Left"
+msgstr ""
+
+#: includes/menu-extender.php:199
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/theme-options.php:624
+msgid "Link to your facebook page"
+msgstr ""
+
+#: includes/theme-options.php:638
+msgid "Link to your google+ page"
+msgstr ""
+
+#: includes/theme-options.php:631
+msgid "Link to your twitter page"
+msgstr ""
+
+#: includes/widgets.php:966
+msgid "Link:"
+msgstr ""
+
+#: includes/theme-options.php:1648
+msgid "List"
+msgstr ""
+
+#: includes/theme-options.php:1637
+msgid "Listing"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:90
+#: includes/profile-pages/my-deals.php:114
+msgid "Live"
+msgstr ""
+
+#: includes/theme-options.php:2316 includes/theme-options.php:2352
+msgid "Live Mode"
+msgstr ""
+
+#: includes/theme-options.php:2179
+msgid "Live mode"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:31
+#: includes/profile-pages/manage-vouchers.php:17
+#: includes/profile-pages/my-deals.php:34
+#: includes/profile-pages/my-purchases.php:17
+msgid "Loading..."
+msgstr ""
+
+#: includes/title.php:98
+msgid "located in "
+msgstr ""
+
+#: includes/theme-options.php:1713
+msgid "Location"
+msgstr ""
+
+#: includes/theme-options.php:657
+msgid "Location ( New Yor, Chicago, ... )"
+msgstr ""
+
+#: includes/theme-options.php:1044
+msgid "Location ( New York, Chicago... )"
+msgstr ""
+
+#: includes/theme-options.php:1711
+msgid "Location Filter Title"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:343
+msgid "Location not listed?"
+msgstr ""
+
+#: includes/theme-options.php:654
+msgid "Location Placeholder"
+msgstr ""
+
+#: includes/title.php:30
+msgid "Location: "
+msgstr ""
+
+#: includes/widgets.php:502
+msgid "Locations:"
+msgstr ""
+
+#: page-tpl_login.php:114
+msgid "LOG IN"
+msgstr ""
+
+#: header.php:204
+msgid "LOG OUT"
+msgstr ""
+
+#: header.php:189
+msgid "LOGIN"
+msgstr ""
+
+#. Name of the template
+msgid "Login"
+msgstr ""
+
+#: includes/theme-options.php:695
+msgid "Logo"
+msgstr ""
+
+#: includes/theme-options.php:711
+msgid "Logo Padding"
+msgstr ""
+
+#: includes/theme-options.php:2080
+msgid "Lost password"
+msgstr ""
+
+#: includes/theme-options.php:2081
+msgid "Lost password basic settings setup."
+msgstr ""
+
+#: includes/theme-options.php:2089
+msgid "Lost Password Message"
+msgstr ""
+
+#: includes/theme-options.php:2096
+msgid "Lost Password Message Subject"
+msgstr ""
+
+#: includes/theme-options.php:178
+msgid "LTR"
+msgstr ""
+
+#: includes/theme-options.php:1526
+msgid "Mail"
+msgstr ""
+
+#: includes/theme-options.php:2372
+msgid "Mail Chimp API"
+msgstr ""
+
+#: includes/theme-options.php:2363
+msgid "Mail chimp API"
+msgstr ""
+
+#: includes/theme-options.php:2379
+msgid "Mail Chimp List ID"
+msgstr ""
+
+#: includes/theme-options.php:1533
+msgid "Mail Subject"
+msgstr ""
+
+#: includes/theme-options.php:424
+msgid "Main Button Background Color Hover"
+msgstr ""
+
+#: includes/theme-options.php:433
+msgid "Main Button Font Color"
+msgstr ""
+
+#: includes/theme-options.php:368
+msgid "Main Color"
+msgstr ""
+
+#: includes/theme-options.php:359
+msgid "Main Colors"
+msgstr ""
+
+#: includes/theme-options.php:2186
+msgid "Main Currency Unit"
+msgstr ""
+
+#: includes/theme-options.php:2192
+msgid "Main Currency Unit Abbreviation"
+msgstr ""
+
+#: includes/profile-pages/my-deals.php:198
+msgid "Manage Vouchers"
+msgstr ""
+
+#: includes/profile-pages/manage-vouchers.php:68
+msgid "Mark as not used"
+msgstr ""
+
+#: includes/profile-pages/manage-vouchers.php:65
+msgid "Mark as used"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:68
+msgid "Marker Latitude"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:62
+msgid "Marker Longitude"
+msgstr ""
+
+#: includes/theme-options.php:1953
+msgid "Maximum Date Ranges"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:105
+msgid "Maximum range between days is "
+msgstr ""
+
+#: includes/theme-options.php:764
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/theme-options.php:780
+msgid "Mega Menu Minimum Height"
+msgstr ""
+
+#: includes/menu-extender.php:226
+msgid "Mega Menu Sidebar "
+msgstr ""
+
+#: includes/theme-options.php:773
+msgid "Mega Menu Sidebars"
+msgstr ""
+
+#: includes/widgets.php:576
+msgid "Menu:"
+msgstr ""
+
+#: includes/theme-options.php:2335
+msgid "Merchant Key"
+msgstr ""
+
+#: includes/theme-options.php:2342
+msgid "Merchant Salt"
+msgstr ""
+
+#: page-tpl_contact.php:47
+msgid "MESSAGE"
+msgstr ""
+
+#: footer.php:83
+msgid "Message"
+msgstr ""
+
+#: includes/theme-options.php:1965
+msgid "Messaging"
+msgstr ""
+
+#: includes/theme-options.php:1854
+msgid "Modal Content"
+msgstr ""
+
+#: includes/theme-options.php:2306
+msgid "Mollie ID"
+msgstr ""
+
+#: includes/menu-extender.php:155
+msgid "Move down"
+msgstr ""
+
+#: includes/menu-extender.php:142
+msgid "Move up"
+msgstr ""
+
+#: single-offer.php:62
+msgid "MULTIPLE LOCATIONS"
+msgstr ""
+
+#: header.php:201
+msgid "MY ACCOUNT"
+msgstr ""
+
+#: page-tpl_my_profile.php:88
+msgid "My Coupons"
+msgstr ""
+
+#: page-tpl_my_profile.php:69
+msgid "My Dashboard"
+msgstr ""
+
+#: page-tpl_my_profile.php:96
+msgid "My Deals"
+msgstr ""
+
+#. Name of the template
+msgid "My Profile"
+msgstr ""
+
+#: includes/theme-options.php:350
+msgid "My Profile Action Slug"
+msgstr ""
+
+#: includes/theme-options.php:343
+msgid "My Profile Offer ID Slug"
+msgstr ""
+
+#: includes/theme-options.php:336
+msgid "My Profile Subpage Slug"
+msgstr ""
+
+#: page-tpl_my_profile.php:81
+msgid "My Purchases"
+msgstr ""
+
+#: page-tpl_contact.php:41 comments.php:71
+msgid "NAME"
+msgstr ""
+
+#: includes/theme-options.php:1439 includes/theme-options.php:1476
+#: includes/offer-cat-icon.php:71
+msgid "Name"
+msgstr ""
+
+#: includes/theme-options.php:2110
+msgid "Name Of Sender"
+msgstr ""
+
+#: includes/theme-options.php:722
+msgid "Navigation"
+msgstr ""
+
+#: includes/theme-options.php:732
+msgid "Navigation Font"
+msgstr ""
+
+#: includes/menu-extender.php:175
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/theme-options.php:741
+msgid "Navigation Padding"
+msgstr ""
+
+#: includes/profile-pages/edit-offer.php:8
+msgid "New discussion message for the offer: "
+msgstr ""
+
+#: includes/theme-options.php:2053
+msgid "New Offer Email"
+msgstr ""
+
+#: includes/theme-options.php:2044
+msgid "New Offers"
+msgstr ""
+
+#: includes/theme-options.php:2045
+msgid "New offers basic settings setup."
+msgstr ""
+
+#: includes/theme-options.php:119 includes/theme-options.php:155
+#: includes/theme-options.php:457 includes/theme-options.php:603
+#: includes/theme-options.php:753 includes/theme-options.php:818
+#: includes/theme-options.php:903 includes/theme-options.php:992
+#: includes/theme-options.php:1031 includes/theme-options.php:1385
+#: includes/theme-options.php:1562 includes/theme-options.php:1626
+#: includes/theme-options.php:1722 includes/theme-options.php:1733
+#: includes/theme-options.php:1770 includes/theme-options.php:1791
+#: includes/theme-options.php:1803 includes/theme-options.php:1823
+#: includes/theme-options.php:1864 includes/theme-options.php:1884
+#: includes/theme-options.php:1944 includes/widgets.php:98
+msgid "No"
+msgstr ""
+
+#: includes/theme-options.php:1681
+msgid "No deals and coupons found."
+msgstr ""
+
+#: includes/menu-extender.php:219
+msgid "No Mega Menu"
+msgstr ""
+
+#: includes/theme-options.php:1671
+msgid "No Offers From Store Message"
+msgstr ""
+
+#: includes/theme-options.php:958 includes/theme-options.php:1286
+msgid "No Repeat"
+msgstr ""
+
+#: includes/theme-options.php:1679
+msgid "No Search Results Message"
+msgstr ""
+
+#: page-tpl_login.php:123
+msgid "Not a member?"
+msgstr ""
+
+#: includes/profile-pages/manage-vouchers.php:59
+#: includes/profile-pages/my-purchases.php:78
+msgid "Not Used"
+msgstr ""
+
+#: includes/theme-options.php:109
+msgid "Notification Bar"
+msgstr ""
+
+#: includes/theme-options.php:136
+msgid "Notification Bar Background Color"
+msgstr ""
+
+#: includes/theme-options.php:145
+msgid "Notification Bar Font Color"
+msgstr ""
+
+#: includes/theme-options.php:129
+msgid "Notification Text"
+msgstr ""
+
+#: includes/widgets.php:366
+msgid "Number Of Posts And Comments:"
+msgstr ""
+
+#: includes/theme-options.php:1874
+msgid "Number Of Similar Coupons"
+msgstr ""
+
+#: includes/theme-options.php:1813
+msgid "Number Of Similar Deals"
+msgstr ""
+
+#: includes/theme-options.php:1741
+msgid ""
+"Number of visible categories to show on the search page before show all "
+"categories button"
+msgstr ""
+
+#: includes/theme-options.php:1748
+msgid ""
+"Number of visible location to show on the search page before show all "
+"lcoations button"
+msgstr ""
+
+#: includes/theme-options.php:2406
+msgid "OAuth Access Token"
+msgstr ""
+
+#: includes/theme-options.php:2413
+msgid "OAuth Access Token Secret"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:305
+msgid "Offer Category"
+msgstr ""
+
+#: includes/theme-options.php:238
+msgid "Offer Category Slug"
+msgstr ""
+
+#: includes/theme-options.php:301
+msgid "Offer Custom Post Type Slug"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:255
+msgid "Offer Description"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:358
+msgid "Offer Expire Date"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:265
+msgid "Offer Image"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:26
+msgid "Offer is deleted"
+msgstr ""
+
+#: includes/theme-options.php:280
+msgid "Offer Keyword Slug"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:327
+msgid "Offer Location"
+msgstr ""
+
+#: includes/theme-options.php:252
+msgid "Offer Location Slug"
+msgstr ""
+
+#: includes/theme-options.php:273
+msgid "Offer Sort Slug"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:352
+msgid "Offer Start Date"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:280
+msgid "Offer Store"
+msgstr ""
+
+#: includes/theme-options.php:259
+msgid "Offer Store Slug"
+msgstr ""
+
+#: includes/theme-options.php:1358
+msgid "Offer Subtitle"
+msgstr ""
+
+#: includes/theme-options.php:245
+msgid "Offer Tag Slug"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:249
+msgid "Offer Title"
+msgstr ""
+
+#: includes/theme-options.php:1697
+msgid "Offer Type Filter Title"
+msgstr ""
+
+#: includes/theme-options.php:231
+msgid "Offer Type Slug"
+msgstr ""
+
+#: includes/theme-options.php:266
+msgid "Offer View Slug"
+msgstr ""
+
+#: includes/theme-options.php:1581
+msgid "Offers"
+msgstr ""
+
+#: includes/theme-options.php:1441 includes/theme-options.php:1478
+msgid "Offers Count"
+msgstr ""
+
+#: includes/theme-options.php:1665
+msgid "Offers Per Page"
+msgstr ""
+
+#: includes/theme-options.php:1582
+msgid "Offers setup."
+msgstr ""
+
+#: includes/theme-options.php:1367
+msgid "Offers Subtitle"
+msgstr ""
+
+#: includes/menu-extender.php:188
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: comments.php:80
+msgid "or cancel reply"
+msgstr ""
+
+#: includes/menu-extender.php:243
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/theme-options.php:479
+msgid "Over Image"
+msgstr ""
+
+#: includes/theme-options.php:100
+msgid "Overall Setup"
+msgstr ""
+
+#. Name of the template
+msgid "Page Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: includes/theme-options.php:1254
+msgid "Page Title"
+msgstr ""
+
+#: includes/theme-options.php:1279
+msgid "Page Title Background Image Repeat"
+msgstr ""
+
+#: includes/theme-options.php:1293
+msgid "Page Title Background Image Size"
+msgstr ""
+
+#: includes/theme-options.php:1263
+msgid "Page Title BG Color"
+msgstr ""
+
+#: includes/theme-options.php:1272
+msgid "Page Title BG Image"
+msgstr ""
+
+#: includes/theme-options.php:1306
+msgid "Page Title Font Color"
+msgstr ""
+
+#: includes/title.php:116
+msgid "Page you have requested is not found"
+msgstr ""
+
+#: page-tpl_login.php:95 page-tpl_register.php:90
+#: includes/profile-pages/edit-profile.php:199
+msgid "PASSWORD"
+msgstr ""
+
+#: page-tpl_register.php:91 page-tpl_register.php:97
+msgid "Passwords do not match"
+msgstr ""
+
+#: includes/custom-bulk.php:75
+msgid "Pay All Sellers"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:34
+msgid ""
+"Payment is processed and once iDEAL verifies it you will see offer as pending"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:28
+#: includes/profile-pages/my-deals.php:31
+#: includes/profile-pages/submit-offer-common.php:31
+msgid ""
+"Payment is processed and once skrill verifies it you will see offer as "
+"pending"
+msgstr ""
+
+#: includes/theme-options.php:1896
+msgid "Payments"
+msgstr ""
+
+#: includes/theme-options.php:1897
+msgid "Payments sharing setup."
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:219
+msgid "PAYOUT METHOD"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:230
+msgid "PayPal"
+msgstr ""
+
+#: includes/theme-options.php:2167
+msgid "PayPal API"
+msgstr ""
+
+#: includes/theme-options.php:2220
+msgid "Paypal API Password"
+msgstr ""
+
+#: includes/theme-options.php:2226
+msgid "Paypal API Signature"
+msgstr ""
+
+#: includes/theme-options.php:2214
+msgid "Paypal API Username"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:245
+msgid "PAYPAL EMAIL"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:60
+msgid "PayPal email address is invalid"
+msgstr ""
+
+#: includes/theme-options.php:2176
+msgid "PayPal Mode"
+msgstr ""
+
+#: includes/theme-options.php:2349
+msgid "PayU Model"
+msgstr ""
+
+#: includes/theme-options.php:2327
+msgid "PayU Money"
+msgstr ""
+
+#. Author of the theme
+msgid "pebas"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:96
+#: includes/profile-pages/my-deals.php:121
+msgid "Pending"
+msgstr ""
+
+#: includes/theme-options.php:223
+msgid "Permalinks"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:273
+msgid "PHONE NUMBER"
+msgstr ""
+
+#: includes/theme-options.php:523
+msgid "Pick Font"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:21
+msgid "Please input coupon code for the coupon"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:27
+msgid "Please input coupon sale link for the coupon"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:32
+msgid "Please input deal in short"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:47
+msgid "Please input deal sale price"
+msgstr ""
+
+#: page-tpl_register.php:85
+msgid "Please input desired username"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:5
+msgid "Please input number of deal items you wish to sell"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:250
+msgid "Please input offer description"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:359
+msgid "Please input offer expiration date"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:267
+#: includes/profile-pages/submit-offer-common.php:269
+msgid "Please input offer presentation image"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:41
+msgid "Please input real deal price"
+msgstr ""
+
+#: page-tpl_register.php:67 includes/profile-pages/edit-profile.php:186
+msgid "Please input your first name"
+msgstr ""
+
+#: page-tpl_register.php:73 includes/profile-pages/edit-profile.php:192
+msgid "Please input your last name"
+msgstr ""
+
+#: page-tpl_login.php:95
+msgid "Please input your password"
+msgstr ""
+
+#: page-tpl_login.php:90
+msgid "Please input your username"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:34
+#: includes/profile-pages/coupon-submit.php:36
+msgid "Please select image for the printable coupon"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:306
+msgid "Please select offer category"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:328
+msgid "Please select offer location"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:281
+msgid "Please select offer store"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:255
+msgid "Please type description of the offer"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:53
+msgid "Please value of the discount"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:323
+msgid ""
+"Populate this field if desired category is not listed in the previous field."
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:345
+msgid ""
+"Populate this field if desired location is not listed in the previous field."
+msgstr ""
+
+#: includes/title.php:22
+msgid "Posts by"
+msgstr ""
+
+#: includes/profile-pages/edit-offer.php:32
+msgid "Previous discussion"
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:35
+msgid "Price"
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:38
+#: includes/profile-pages/my-purchases.php:91
+msgid "Print"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:14
+msgid "Printable"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:32
+msgid "Printable Coupon Image"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:109
+msgid "Provided passwords do not match"
+msgstr ""
+
+#: includes/theme-options.php:2243
+msgid "Public Client ID"
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:32
+msgid "Purchase Date"
+msgstr ""
+
+#: includes/theme-options.php:2011 includes/theme-options.php:2020
+msgid "Purchase Message"
+msgstr ""
+
+#: includes/theme-options.php:2012
+msgid "Purchase message basic settings setup."
+msgstr ""
+
+#: includes/theme-options.php:2034
+msgid "Purchase Message Subject"
+msgstr ""
+
+#: includes/profile-pages/my-deals.php:54
+msgid "Purchases"
+msgstr ""
+
+#: includes/profile-pages/dashboard.php:53
+msgid "Purchases: "
+msgstr ""
+
+#: page-tpl_my_profile.php:70
+msgid "Quick informations about your profile"
+msgstr ""
+
+#: includes/filter-bar.php:61
+msgid "RATINGS"
+msgstr ""
+
+#: index.php:67
+msgid "READ MORE"
+msgstr ""
+
+#: single-store.php:91 single-offer.php:279
+msgid "Read More"
+msgstr ""
+
+#: page-tpl_recover_password.php:47
+msgid "RECOVER PASSWORD"
+msgstr ""
+
+#. Name of the template
+msgid "Recover Password"
+msgstr ""
+
+#: page-tpl_register.php:120 header.php:192
+msgid "REGISTER"
+msgstr ""
+
+#. Name of the template
+msgid "Register"
+msgstr ""
+
+#: page-tpl_login.php:124
+msgid "REGISTER HERE"
+msgstr ""
+
+#: page-tpl_register.php:122
+msgid ""
+"Registering is not possible on demo, please login with predefined accounts."
+msgstr ""
+
+#: includes/theme-options.php:1978
+msgid "Registration"
+msgstr ""
+
+#: includes/theme-options.php:1979
+msgid "Registration basic settings setup."
+msgstr ""
+
+#: includes/theme-options.php:1987
+msgid "Registration Message"
+msgstr ""
+
+#: includes/theme-options.php:1994
+msgid "Registration Message Subject"
+msgstr ""
+
+#: page-tpl_login.php:102
+msgid "Remember me"
+msgstr ""
+
+#: includes/menu-extender.php:256
+msgid "Remove"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:73
+msgid "Remove marker"
+msgstr ""
+
+#: includes/theme-options.php:955 includes/theme-options.php:1283
+msgid "Repeat"
+msgstr ""
+
+#: page-tpl_register.php:96 includes/profile-pages/edit-profile.php:205
+msgid "REPEAT PASSWORD"
+msgstr ""
+
+#: includes/theme-options.php:957 includes/theme-options.php:1285
+msgid "Repeat X"
+msgstr ""
+
+#: includes/theme-options.php:956 includes/theme-options.php:1284
+msgid "Repeat Y"
+msgstr ""
+
+#: includes/theme-options.php:1346
+msgid "Right"
+msgstr ""
+
+#: includes/theme-options.php:179
+msgid "RTL"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:13
+msgid "Sale"
+msgstr ""
+
+#: includes/profile-pages/dashboard.php:50
+msgid "Sales: "
+msgstr ""
+
+#: includes/theme-options.php:646 includes/theme-options.php:1020
+#: includes/profile-pages/my-deals.php:41
+msgid "Search"
+msgstr ""
+
+#: includes/theme-options.php:1718
+msgid "Search Filter Number Of Offers"
+msgstr ""
+
+#: includes/theme-options.php:1729
+msgid "Search Filter Show Empty"
+msgstr ""
+
+#: includes/theme-options.php:673
+#, php-format
+msgid "Search for... ( 20% off, great deal,... )"
+msgstr ""
+
+#: includes/theme-options.php:1049
+msgid "Search Location Description"
+msgstr ""
+
+#: includes/theme-options.php:1041
+msgid "Search Location Placeholder"
+msgstr ""
+
+#. Name of the template
+#: includes/theme-options.php:1335
+msgid "Search Page"
+msgstr ""
+
+#: includes/title.php:19 includes/title.php:40
+msgid "Search results for: "
+msgstr ""
+
+#: includes/theme-options.php:1021
+msgid "Search Settings."
+msgstr ""
+
+#: includes/theme-options.php:1065
+msgid "Search Store Description"
+msgstr ""
+
+#: includes/theme-options.php:1057
+msgid "Search Store Placeholder"
+msgstr ""
+
+#: includes/theme-options.php:2250
+msgid "Secret Client ID"
+msgstr ""
+
+#: includes/redux-extension/extensions/post_type_ajax/post_type_ajax/field_post_type_ajax.php:81
+#: includes/redux-extension/extensions/taxonomy_ajax/taxonomy_ajax/field_taxonomy_ajax.php:80
+msgid "Select an item"
+msgstr ""
+
+#: includes/theme-options.php:1203
+msgid "Select background color for home page search dropdown"
+msgstr ""
+
+#: includes/theme-options.php:1221 includes/theme-options.php:1230
+msgid "Select background color for home page search dropdown on hover"
+msgstr ""
+
+#: includes/theme-options.php:1141
+msgid "Select background color for home page search input"
+msgstr ""
+
+#: includes/theme-options.php:1177
+msgid ""
+"Select background color for home page search input on focus ( when user is "
+"typing in it)"
+msgstr ""
+
+#: includes/theme-options.php:1397
+msgid "Select background color for the breadcrumbs"
+msgstr ""
+
+#: includes/theme-options.php:1265
+msgid "Select background color for the page titles"
+msgstr ""
+
+#: includes/theme-options.php:946
+msgid "Select background image for home page"
+msgstr ""
+
+#: includes/theme-options.php:1274
+msgid "Select background image for the page titles"
+msgstr ""
+
+#: includes/theme-options.php:953
+msgid "Select background image repeat for home page"
+msgstr ""
+
+#: includes/theme-options.php:1281
+msgid "Select background image repeat for the page title"
+msgstr ""
+
+#: includes/theme-options.php:967
+msgid "Select background image size for home page"
+msgstr ""
+
+#: includes/theme-options.php:1295
+msgid "Select background image size for the page title"
+msgstr ""
+
+#: includes/theme-options.php:1150
+msgid "Select border color for home page search input"
+msgstr ""
+
+#: includes/theme-options.php:1185
+msgid ""
+"Select border color for home page search input on focus ( when user is "
+"typing in it )"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:318
+msgid ""
+"Select category for the offer or populate field bellow to request new one "
+"leaving this field not selected."
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:39
+msgid "Select coupon image"
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:10
+msgid "Select coupon type"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:22
+msgid "Select deal images"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:80
+msgid "Select deal type"
+msgstr ""
+
+#: includes/theme-options.php:1651
+msgid "Select default listing for the offers"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:272
+msgid "Select featured image"
+msgstr ""
+
+#: includes/theme-options.php:1131
+msgid "Select font color for home page main title"
+msgstr ""
+
+#: includes/theme-options.php:1212
+msgid "Select font color for home page search dropdown"
+msgstr ""
+
+#: includes/theme-options.php:1168
+msgid "Select font color for home page search input"
+msgstr ""
+
+#: includes/theme-options.php:1194
+msgid ""
+"Select font color for home page search input on focus ( when user is typing "
+"in it )"
+msgstr ""
+
+#: includes/theme-options.php:1159
+msgid "Select font color for home page search input placeholder"
+msgstr ""
+
+#: includes/theme-options.php:1405
+msgid "Select font color for the breadcrumbs"
+msgstr ""
+
+#: includes/theme-options.php:1308
+msgid "Select font color for the page titles"
+msgstr ""
+
+#: includes/theme-options.php:544
+msgid "Select font for the text"
+msgstr ""
+
+#: includes/theme-options.php:535
+msgid "Select font for the titles"
+msgstr ""
+
+#: includes/theme-options.php:1666
+msgid "Select how many offers to show per page"
+msgstr ""
+
+#: includes/theme-options.php:1659
+msgid "Select how many stores to show per page"
+msgstr ""
+
+#: includes/offer-cat-icon.php:15 includes/offer-cat-icon.php:35
+msgid "Select icon for the code category"
+msgstr ""
+
+#: includes/theme-options.php:2319
+msgid "Select iDEAL mode"
+msgstr ""
+
+#: includes/theme-options.php:1089
+msgid ""
+"Select items you wish to display in home page slider ( click on whitespace )"
+msgstr ""
+
+#: includes/theme-options.php:1413
+msgid "Select link font color for the breadcrumbs"
+msgstr ""
+
+#: includes/theme-options.php:1421
+msgid "Select link font color for the breadcrumbs on hover"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:340
+msgid ""
+"Select location for the offer or populate field bellow to request new one "
+"leaving this field not selected."
+msgstr ""
+
+#: includes/theme-options.php:2355
+msgid "Select PayU mode"
+msgstr ""
+
+#: includes/theme-options.php:1350
+msgid "Select position of the sidebar on the search page."
+msgstr ""
+
+#: includes/theme-options.php:2198
+msgid "Select position of the unit."
+msgstr ""
+
+#: includes/theme-options.php:920
+msgid "Select source of the markers for displaying on the big map"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:296
+msgid ""
+"Select store for the offer or populate field bellow to request new one "
+"leaving this field not selected."
+msgstr ""
+
+#: includes/theme-options.php:2208
+msgid "Select unit thousands separator"
+msgstr ""
+
+#: includes/theme-options.php:1856
+msgid "Select what to show in modal"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:88
+msgid "Sell discounted products and services through website."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:94
+msgid "Sell discounted products and services through your store."
+msgstr ""
+
+#: footer.php:90 includes/profile-pages/edit-offer.php:28
+msgid "SEND"
+msgstr ""
+
+#: comments.php:67
+msgid "Send Comment"
+msgstr ""
+
+#: includes/theme-options.php:2063
+msgid "Send To Friend"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:16
+msgid ""
+"Set expire date and time for vouchers generated after purchase or leave "
+"empty for unlimited last ( How much time voucher is valid after purchase? )"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:360
+msgid "Set expire date for the offer."
+msgstr ""
+
+#: includes/theme-options.php:1430
+msgid "Set options for the all categories page."
+msgstr ""
+
+#: includes/theme-options.php:1467
+msgid "Set options for the all locations page."
+msgstr ""
+
+#: includes/theme-options.php:713
+msgid "Set padding for logo if needed ( set 0 if not )"
+msgstr ""
+
+#: includes/theme-options.php:743
+msgid "Set padding for navigation as needed ( leave 0 if not )"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:76
+msgid ""
+"Set places where customers can use their vauchers. Use Longitude & Latitude "
+"for google map markers, to findlong/lat "
+msgstr ""
+
+#: includes/theme-options.php:1336
+msgid "Set search page options."
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:354
+msgid ""
+"Set start date for the offer. If this field is empty current time will be "
+"applied to the offer."
+msgstr ""
+
+#: includes/theme-options.php:723
+msgid "Set up basic things for navigation."
+msgstr ""
+
+#: includes/theme-options.php:1122
+msgid "Set up colors for search and content on home page."
+msgstr ""
+
+#: includes/theme-options.php:765
+msgid "Set up mega menu."
+msgstr ""
+
+#: includes/theme-options.php:1843
+msgid "Settings for coupon single page."
+msgstr ""
+
+#: includes/theme-options.php:1782
+msgid "Settings for deal single page."
+msgstr ""
+
+#: includes/theme-options.php:2064
+msgid "Settings for send to friend action."
+msgstr ""
+
+#: includes/theme-options.php:1242
+msgid "Setup basic things for inner pages."
+msgstr ""
+
+#: includes/theme-options.php:1638
+msgid "Setup basic things for stores and offers pages."
+msgstr ""
+
+#: includes/theme-options.php:577
+msgid "Setup basic things for top bar. "
+msgstr ""
+
+#: includes/theme-options.php:1377
+msgid "Setup breadcrumbs basic things on inner pages."
+msgstr ""
+
+#: includes/theme-options.php:1518
+msgid "Setup contact details here."
+msgstr ""
+
+#: includes/theme-options.php:2155
+msgid "Setup external API needed for different website services."
+msgstr ""
+
+#: includes/theme-options.php:1544
+msgid "Setup google map details here."
+msgstr ""
+
+#: includes/theme-options.php:848
+msgid "Setup social profiles in footer."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:31
+msgid "Short Description"
+msgstr ""
+
+#: includes/widgets.php:764
+msgid "Shortcode:"
+msgstr ""
+
+#: includes/theme-options.php:1888
+msgid "Show author info on coupon single page"
+msgstr ""
+
+#: includes/theme-options.php:1827
+msgid "Show author info on deal single page"
+msgstr ""
+
+#: includes/theme-options.php:1886
+msgid "Show Author On Coupon Single Page"
+msgstr ""
+
+#: includes/theme-options.php:1825
+msgid "Show Author On Deals Single Page"
+msgstr ""
+
+#: includes/theme-options.php:906
+msgid "Show Big Map"
+msgstr ""
+
+#: includes/theme-options.php:1793
+msgid "Show Bought Information"
+msgstr ""
+
+#: includes/theme-options.php:1388
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: includes/theme-options.php:1766
+msgid "Show Filter Bar"
+msgstr ""
+
+#: includes/widgets.php:95
+msgid "Show icons:"
+msgstr ""
+
+#: includes/theme-options.php:1795
+msgid "Show information on how many people bought deal"
+msgstr ""
+
+#: includes/theme-options.php:908
+msgid "Show or hide big map"
+msgstr ""
+
+#: includes/theme-options.php:1389
+msgid "Show or hide breadcrumbs instead of the page title"
+msgstr ""
+
+#: includes/theme-options.php:1730
+msgid "Show or hide empty locations / categories on the search page."
+msgstr ""
+
+#: includes/theme-options.php:1035
+msgid "Show or hide home page search bar."
+msgstr ""
+
+#: includes/theme-options.php:1719
+msgid ""
+"Show or hide number of offers for a certain location / category on search "
+"page."
+msgstr ""
+
+#: includes/theme-options.php:1623
+msgid "Show or hide slider on the search page"
+msgstr ""
+
+#: includes/theme-options.php:1767
+msgid "Show or hide sort by filter."
+msgstr ""
+
+#: includes/theme-options.php:755
+msgid "Show or hide sticky navigation"
+msgstr ""
+
+#: includes/theme-options.php:996
+msgid "Show or hide title and subtitle."
+msgstr ""
+
+#: includes/theme-options.php:1033
+msgid "Show Search"
+msgstr ""
+
+#: includes/theme-options.php:1868
+msgid "Show similar coupon on deals single page"
+msgstr ""
+
+#: includes/theme-options.php:1866
+msgid "Show Similar Coupons"
+msgstr ""
+
+#: includes/theme-options.php:1805
+msgid "Show Similar Deals"
+msgstr ""
+
+#: includes/theme-options.php:1807
+msgid "Show similar deals on deals single page"
+msgstr ""
+
+#: includes/theme-options.php:1614
+msgid "Show slider in listing/main search page."
+msgstr ""
+
+#: includes/widgets.php:369
+msgid "Show Tabs:"
+msgstr ""
+
+#: includes/theme-options.php:1595
+msgid "Show terms and conditions on submit page."
+msgstr ""
+
+#: includes/theme-options.php:994
+msgid "Show Title / Subtitle"
+msgstr ""
+
+#: includes/theme-options.php:814
+msgid "Show To Top"
+msgstr ""
+
+#: includes/theme-options.php:599
+msgid "Show Top Bar"
+msgstr ""
+
+#: includes/title.php:77
+msgid "Showing "
+msgstr ""
+
+#: includes/widgets.php:772
+msgid "Sidebar"
+msgstr ""
+
+#: includes/theme-options.php:1690
+msgid "Sidebar filter basic options."
+msgstr ""
+
+#: includes/theme-options.php:1348
+msgid "Sidebar Position"
+msgstr ""
+
+#: single-offer.php:348 single-offer.php:621
+msgid "Similar Offers"
+msgstr ""
+
+#: includes/theme-options.php:564
+msgid "Site Favicon"
+msgstr ""
+
+#: includes/theme-options.php:704
+msgid "Site Logo"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:236
+msgid "Skrill"
+msgstr ""
+
+#: includes/theme-options.php:2267
+msgid "Skrill API"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:251
+msgid "SKRILL EMAIL"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:64
+msgid "Skrill email address is invalid"
+msgstr ""
+
+#: includes/theme-options.php:475
+msgid "Slide Caption"
+msgstr ""
+
+#: includes/theme-options.php:1613 includes/widgets.php:773
+msgid "Slider"
+msgstr ""
+
+#: includes/theme-options.php:459
+msgid "Slider Auto Rotate"
+msgstr ""
+
+#: includes/theme-options.php:1077 includes/theme-options.php:1088
+msgid "Slider Items"
+msgstr ""
+
+#: includes/theme-options.php:1622
+msgid "Slider On Search Page"
+msgstr ""
+
+#: includes/theme-options.php:467
+msgid "Slider Rotate Speed"
+msgstr ""
+
+#: includes/theme-options.php:446
+msgid "Slider Setup"
+msgstr ""
+
+#: includes/theme-options.php:1440 includes/theme-options.php:1477
+#: includes/offer-cat-icon.php:73
+msgid "Slug"
+msgstr ""
+
+#: includes/theme-options.php:613 includes/theme-options.php:847
+msgid "Social"
+msgstr ""
+
+#: single-offer.php:165 single-offer.php:187
+msgid "SOLD OUT"
+msgstr ""
+
+#: includes/profile-pages/my-deals.php:111
+msgid "Sold out"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:281
+msgid "SOMETHING ABOUT YOU"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:88
+msgid "Something went wrong: "
+msgstr ""
+
+#: 404.php:11
+msgid "Sorry but page you are looking for doesn't exist!"
+msgstr ""
+
+#: includes/theme-options.php:1757
+msgid "Sort By"
+msgstr ""
+
+#. Name of the template
+msgid "Sort By Ratings"
+msgstr ""
+
+#: includes/theme-options.php:1443
+msgid "Sort Categories By"
+msgstr ""
+
+#: includes/theme-options.php:1480
+msgid "Sort Locations By"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:45
+#: includes/profile-pages/manage-vouchers.php:26
+#: includes/profile-pages/my-deals.php:48
+msgid "Status"
+msgstr ""
+
+#: includes/theme-options.php:665
+msgid "Store ( Addidas, nike, ... )"
+msgstr ""
+
+#: includes/theme-options.php:287
+msgid "Store Custom Post Type Slug"
+msgstr ""
+
+#: includes/theme-options.php:294
+msgid "Store Letter Custom Post Type Slug"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:299
+msgid "Store not listed?"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:83
+msgid "Store Offer"
+msgstr ""
+
+#: includes/theme-options.php:1911
+msgid "Store Offer Fee"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:92
+msgid "Store Offer:"
+msgstr ""
+
+#: includes/theme-options.php:662
+msgid "Store Placeholder"
+msgstr ""
+
+#: includes/theme-options.php:915
+msgid "Stores"
+msgstr ""
+
+#: includes/theme-options.php:1658
+msgid "Stores Per Page"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:225
+msgid "Stripe"
+msgstr ""
+
+#: includes/theme-options.php:2235
+msgid "Stripe API"
+msgstr ""
+
+#: includes/theme-options.php:2072
+msgid "Subject"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:241
+msgid "Submission of the "
+msgstr ""
+
+#: header.php:195
+msgid "SUBMIT"
+msgstr ""
+
+#: includes/theme-options.php:1923
+msgid "Submit Coupon Fee"
+msgstr ""
+
+#: includes/theme-options.php:1917
+msgid "Submit Deal Fee"
+msgstr ""
+
+#: page-tpl_contact.php:51
+msgid "SUBMIT MESSAGE"
+msgstr ""
+
+#: includes/theme-options.php:1932
+msgid "Submitting"
+msgstr ""
+
+#: includes/theme-options.php:1933
+msgid "Submitting deals & coupons settings."
+msgstr ""
+
+#: includes/widgets.php:990
+msgid "Subscribe"
+msgstr ""
+
+#: includes/theme-options.php:1009
+msgid "Subtitle"
+msgstr ""
+
+#: includes/title.php:34
+msgid "Tag: "
+msgstr ""
+
+#: includes/theme-options.php:1594
+msgid "Terms"
+msgstr ""
+
+#: includes/profile-pages/terms.php:6
+msgid "Terms & Condition"
+msgstr ""
+
+#: page-tpl_register.php:104
+msgid "TERMS & CONDITIONS"
+msgstr ""
+
+#: includes/theme-options.php:1603 includes/theme-options.php:2001
+msgid "Terms & Conditions"
+msgstr ""
+
+#: includes/theme-options.php:2317 includes/theme-options.php:2353
+msgid "Test Mode"
+msgstr ""
+
+#: includes/theme-options.php:2180
+msgid "Testing mode"
+msgstr ""
+
+#: includes/theme-options.php:542
+msgid "Text Font"
+msgstr ""
+
+#: includes/widgets.php:731
+msgid "Text widget which can render shortcode."
+msgstr ""
+
+#: includes/widgets.php:777
+msgid "Text:"
+msgstr ""
+
+#: page-tpl_register.php:24
+msgid "Thank you for confirming your email. Now you can proceed to login."
+msgstr ""
+
+#: includes/menu-extender.php:207
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/theme-options.php:192
+msgid "Theme Usage"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:19
+msgid "There is no offer with the provided ID"
+msgstr ""
+
+#: page-tpl_register.php:31
+msgid "There is no user with that username."
+msgstr ""
+
+#: includes/mollie.php:267
+msgid "There was an error processing your request"
+msgstr ""
+
+#: includes/profile-pages/insert-offer.php:36
+msgid "This is demo and offer submitting is not possible"
+msgstr ""
+
+#: page-tpl_my_profile.php:31
+msgid "This is demo. Image uploading and offer submitting is not possible."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:93
+msgid ""
+"This type of deal is usually picked when you want to sell codes/vouchers for "
+"discounted products."
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:87
+msgid ""
+"This type of deal is usually picked when you want to sell discounted "
+"products or services."
+msgstr ""
+
+#: includes/filter-bar.php:44
+msgid "TIME LEFT"
+msgstr ""
+
+#: single-offer.php:154 single-offer.php:508
+msgid "TIME LEFT - LIMITED OFFER!"
+msgstr ""
+
+#: single-offer.php:157 single-offer.php:505
+msgid "TIME UNTIL OFFER STARTS"
+msgstr ""
+
+#: includes/theme-options.php:581 includes/theme-options.php:686
+#: includes/theme-options.php:796 includes/theme-options.php:885
+#: includes/theme-options.php:1002 includes/theme-options.php:1246
+#: includes/theme-options.php:1508 includes/theme-options.php:1586
+#: includes/theme-options.php:1970 includes/theme-options.php:2159
+msgid "Title"
+msgstr ""
+
+#: includes/menu-extender.php:181
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:220
+msgid "Title is required"
+msgstr ""
+
+#: includes/widgets.php:92 includes/widgets.php:165 includes/widgets.php:216
+#: includes/widgets.php:271 includes/widgets.php:363 includes/widgets.php:428
+#: includes/widgets.php:499 includes/widgets.php:573 includes/widgets.php:637
+#: includes/widgets.php:712 includes/widgets.php:760 includes/widgets.php:818
+#: includes/widgets.php:874 includes/widgets.php:923 includes/widgets.php:963
+#: includes/widgets.php:1003
+msgid "Title:"
+msgstr ""
+
+#: includes/theme-options.php:533
+msgid "Titles Font"
+msgstr ""
+
+#: includes/theme-options.php:806
+msgid "To Top"
+msgstr ""
+
+#: includes/theme-options.php:807
+msgid "To Top Settings."
+msgstr ""
+
+#: header.php:82
+msgid "Toggle navigation"
+msgstr ""
+
+#: header.php:71 header.php:76
+msgid "Toggle Top Bar"
+msgstr ""
+
+#: includes/theme-options.php:576
+msgid "Top Bar"
+msgstr ""
+
+#: includes/theme-options.php:647
+msgid "Top bar search settings."
+msgstr ""
+
+#: includes/theme-options.php:614
+msgid "Top bar social settings."
+msgstr ""
+
+#: includes/theme-options.php:224
+msgid "Translate permalinks."
+msgstr ""
+
+#: 404.php:13
+msgid "Try to search"
+msgstr ""
+
+#: includes/theme-options.php:862
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme-options.php:2389
+msgid "Twitter API"
+msgstr ""
+
+#: includes/theme-options.php:2390
+msgid "Twitter API Settings."
+msgstr ""
+
+#: includes/theme-options.php:629
+msgid "Twitter link"
+msgstr ""
+
+#: includes/theme-options.php:2399
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/widgets.php:995
+msgid "Type email and hit enter"
+msgstr ""
+
+#: searchform.php:2
+msgid "Type term and hit enter"
+msgstr ""
+
+#: includes/theme-options.php:2197
+msgid "Unit Position"
+msgstr ""
+
+#: includes/theme-options.php:2207
+msgid "Unit Thousands Separator"
+msgstr ""
+
+#: single-offer.php:525
+msgid "UNLIMITED"
+msgstr ""
+
+#: single-offer.php:511
+msgid "UNLIMITED OFFER!"
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:287
+msgid "UPDATE PROFILE"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:273
+msgid "Upload and select featured image for the offer."
+msgstr ""
+
+#: includes/theme-options.php:556
+msgid "Upload favicon for website."
+msgstr ""
+
+#: includes/theme-options.php:696
+msgid "Upload logo for website."
+msgstr ""
+
+#: includes/profile-pages/coupon-submit.php:40
+msgid "Upload printable coupon image."
+msgstr ""
+
+#: includes/theme-options.php:566
+msgid "Upload site favicon."
+msgstr ""
+
+#: includes/theme-options.php:706
+msgid "Upload site logo"
+msgstr ""
+
+#: includes/menu-extender.php:168
+msgid "URL"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:76
+msgid "use this link"
+msgstr ""
+
+#: includes/profile-pages/manage-vouchers.php:56
+#: includes/profile-pages/my-purchases.php:65
+msgid "Used"
+msgstr ""
+
+#: page-tpl_login.php:90 page-tpl_register.php:84
+msgid "USERNAME"
+msgstr ""
+
+#: includes/theme-options.php:329
+msgid "Username Slug"
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:73
+msgid "Valid Until: "
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:107
+msgid "Valid until: "
+msgstr ""
+
+#: single-offer.php:215
+msgid "VALUE"
+msgstr ""
+
+#: includes/filter-bar.php:10
+msgid "VIEW"
+msgstr ""
+
+#: includes/featured-slider.php:173 includes/offers/deals.php:13
+msgid "VIEW DEAL"
+msgstr ""
+
+#: includes/profile-pages/my-coupons.php:54
+#: includes/profile-pages/my-deals.php:60
+msgid "Views"
+msgstr ""
+
+#: includes/theme-options.php:1740
+msgid "Visible Search Categories"
+msgstr ""
+
+#: includes/theme-options.php:1747
+msgid "Visible Search Locations"
+msgstr ""
+
+#: includes/profile-pages/manage-vouchers.php:23
+#: includes/profile-pages/my-purchases.php:26
+msgid "Voucher Code"
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:99
+msgid "Voucher For Deal: "
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:95
+msgid "Voucher ID: "
+msgstr ""
+
+#: includes/profile-pages/my-purchases.php:29
+msgid "Voucher Status"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:82
+msgid "Website Offer"
+msgstr ""
+
+#: includes/theme-options.php:1905
+msgid "Website Offer Fee"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:86
+msgid "Website Offer:"
+msgstr ""
+
+#: includes/theme-options.php:1060
+msgid "What are you looking for?"
+msgstr ""
+
+#: includes/theme-options.php:1851
+msgid "Whole Content"
+msgstr ""
+
+#: includes/profile-pages/edit-offer.php:25
+msgid "WRITE TO ADMINISTRATOR"
+msgstr ""
+
+#: page-tpl_register.php:27
+msgid "Wrong confirmation hash."
+msgstr ""
+
+#: includes/theme-options.php:120 includes/theme-options.php:156
+#: includes/theme-options.php:456 includes/theme-options.php:602
+#: includes/theme-options.php:752 includes/theme-options.php:817
+#: includes/theme-options.php:904 includes/theme-options.php:991
+#: includes/theme-options.php:1030 includes/theme-options.php:1386
+#: includes/theme-options.php:1563 includes/theme-options.php:1625
+#: includes/theme-options.php:1721 includes/theme-options.php:1732
+#: includes/theme-options.php:1769 includes/theme-options.php:1790
+#: includes/theme-options.php:1802 includes/theme-options.php:1822
+#: includes/theme-options.php:1863 includes/theme-options.php:1883
+#: includes/theme-options.php:1945 includes/widgets.php:97
+msgid "Yes"
+msgstr ""
+
+#: page-tpl_login.php:55
+msgid "You do not permission for your action"
+msgstr ""
+
+#: comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: page-tpl_register.php:109
+msgid "You must read and accept terms in order to be able to register on site"
+msgstr ""
+
+#: includes/profile-pages/terms.php:11
+msgid "You must read and accept terms in order to be able to submit your offer"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:166
+msgid ""
+"You need to connect your profile with some payment in order to use shared "
+"deal."
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:122
+msgid "You need to input code for the coupon type code"
+msgstr ""
+
+#: includes/profile-pages/deal-submit.php:10
+msgid "You need to input number of vouchers same as inputed deal item."
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:128
+msgid "You need to input sale link for the coupon type sale"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:174
+msgid "You need to input short description of the deal"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:146
+msgid "You need to select coupon type"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:170
+msgid "You need to select deal type"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:212
+msgid "You need to select featuerd image for the coupon"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:204
+msgid "You need to select or submit new category"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:208
+msgid "You need to select or submit new store"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:200
+msgid "You need to select ro submit new location"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:178
+msgid ""
+"You need to specify amount of the discount based on the real price and sale "
+"price ( SALE PRICE / REAL PRICE * 100 )"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:139
+msgid "You need to specify coupon data based on its type"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:196
+msgid "You need to specify expire date"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:190
+msgid "You need to specify number of items you wish to sell"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:186
+msgid ""
+"You need to specify real price of the deal ( number only with max two "
+"decimal separated by . )"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:182
+msgid ""
+"You need to specify sale price of the deal ( number only with max two "
+"decimal separated by . )"
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:134
+msgid "You need to upload coupon image for the printable coupon type"
+msgstr ""
+
+#: single-offer.php:235
+msgid "YOU SAVE"
+msgstr ""
+
+#: includes/theme-options.php:2275
+msgid "You skrill mail"
+msgstr ""
+
+#: includes/theme-options.php:2282
+msgid "You skrill secret word"
+msgstr ""
+
+#: page-tpl_login.php:47
+msgid "Your account is not activated. Check you mail for the activation link."
+msgstr ""
+
+#: includes/theme-options.php:2289
+msgid "Your API/MQI password."
+msgstr ""
+
+#: media/media-video.php:12
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: includes/profile-pages/edit-offer.php:18
+msgid "Your message has been sent."
+msgstr ""
+
+#: includes/profile-pages/submit-offer-common.php:56
+msgid "Your offer is submited and it will be reviewed as soon as possible."
+msgstr ""
+
+#: includes/profile-pages/insert-offer.php:115
+msgid "Your offer is submitted and it will be reviewed as soon as possible"
+msgstr ""
+
+#: includes/profile-pages/insert-offer.php:104
+msgid ""
+"Your offer is successfully submitted. In  order to be reviewed and approved "
+"you need to pay for its submission. You can do that by clicking on "
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:134
+msgid "Your profile is updated."
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:29
+msgid "Your stripe account is connected."
+msgstr ""
+
+#: includes/profile-pages/edit-profile.php:94
+msgid "Your stripe account is disconnected."
+msgstr ""

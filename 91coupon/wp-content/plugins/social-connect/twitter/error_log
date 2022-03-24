@@ -1,0 +1,1 @@
+[26-Nov-2014 05:18:28 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home4/sweb/public_html/demo/themes/propershop/wp-content/plugins/social-connect/twitter/callback.php on line 5
